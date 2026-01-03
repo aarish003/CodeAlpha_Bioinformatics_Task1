@@ -22,10 +22,13 @@ Methodology
 3. Analyzed sequence similarity and alignment results.
 
 Result
+
 -High sequence similarity and low E-value confirmed accurate protein identification.
 
 Conclusion
+
 -This task improved understanding of sequence analysis using bioinformatics tools.
 
 Acknowledgment
+
 -Completed as part of the CodeAlpha Bioinformatics Internship task 1 DNA/Protein Sequence Analysis using BLAST with help of CodeAlpha team and i learn about Understanding the FASTA Format and how to use biological sequence data . Using NCBI BLAST For Protein Sequence analysis. Identifying homologous sequence . Interpreting percent Identity, Query Coverage, And E-value . Reading and analyzing BLAST result Correctly. Gaining hands-on experience with bioinformatics tools
