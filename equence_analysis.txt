@@ -1,0 +1,28 @@
+Task 1: Biological Sequence Retrieval and Analysis
+Internship: CodeAlpha – Bioinformatics Internship
+
+PROCESS:
+
+1. The protein sequence of Hemoglobin Subunit Beta (Human) was retrieved from the UniProt database.
+2. The UniProt ID P68871 was searched using the UniProt web interface.
+3. The protein sequence was downloaded in FASTA format and saved as protein_sequence.fasta.
+4. The retrieved sequence was submitted to ExPASy ProtParam for basic protein analysis.
+5. Physicochemical properties of the protein were analyzed and recorded.
+
+TOOLS USED:
+- UniProt (https://www.uniprot.org)
+- ExPASy ProtParam (https://web.expasy.org/protparam/)
+
+RESULTS:
+
+Protein Name: Hemoglobin Subunit Beta
+Organism: Homo sapiens
+UniProt ID: P68871
+Sequence Length: 147 amino acids
+Protein Type: Globular protein
+Primary Function: Oxygen transport in red blood cells
+Stability Index: Stable protein
+Theoretical pI: Physiologically suitable for RBC environment
+
+
+
